@@ -188,6 +188,9 @@ Console Output
 
 
 Below is the console output from the testbench simulation.
+
+
+
 ![Screenshot 2025-06-08 195331](https://github.com/user-attachments/assets/bf2ac1c3-db11-414f-962c-fb77c36af1f6)
 
 
